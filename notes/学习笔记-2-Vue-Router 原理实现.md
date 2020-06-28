@@ -371,7 +371,7 @@ export default class VueRouter {
   
   init () {
     this.createRouteMap()
-    this.initComponents()
+    this.initComponents(_Vue)
   }
   
   createRouteMap () {
@@ -479,7 +479,7 @@ initEvent () {
 // 同时还需要在 init 方法中调用 initEvent 方法
 init () {
   this.createRouteMap()
-  this.initComponents()
+  this.initComponents(_Vue)
   this.initEvent()
 }
 ```
@@ -518,7 +518,7 @@ export default class VueRouter {
   
   init () {
     this.createRouteMap()
-    this.initComponents()
+    this.initComponents(_Vue)
     this.initEvent()
   }
   
