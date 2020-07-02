@@ -1,0 +1,150 @@
+<svg id="SvgjsSvg1116" width="869" height="524" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs">
+    <defs id="SvgjsDefs1117">
+        <marker id="SvgjsMarker1154" markerWidth="16" markerHeight="12" refX="16" refY="6" viewBox="0 0 16 12" orient="auto" markerUnits="userSpaceOnUse">
+            <path id="SvgjsPath1155" d="M0,2 L14,6 L0,11 L0,2" fill="#323232" stroke="#323232" stroke-width="2"></path>
+        </marker>
+        <marker id="SvgjsMarker1158" markerWidth="16" markerHeight="12" refX="16" refY="6" viewBox="0 0 16 12" orient="auto" markerUnits="userSpaceOnUse">
+            <path id="SvgjsPath1159" d="M0,2 L14,6 L0,11 L0,2" fill="#323232" stroke="#323232" stroke-width="2"></path>
+        </marker>
+        <marker id="SvgjsMarker1174" markerWidth="16" markerHeight="12" refX="16" refY="6" viewBox="0 0 16 12" orient="auto" markerUnits="userSpaceOnUse">
+            <path id="SvgjsPath1175" d="M0,2 L14,6 L0,11 L0,2" fill="#323232" stroke="#323232" stroke-width="2"></path>
+        </marker>
+        <marker id="SvgjsMarker1182" markerWidth="16" markerHeight="12" refX="16" refY="6" viewBox="0 0 16 12" orient="auto" markerUnits="userSpaceOnUse">
+            <path id="SvgjsPath1183" d="M0,2 L14,6 L0,11 L0,2" fill="#323232" stroke="#323232" stroke-width="2"></path>
+        </marker>
+        <marker id="SvgjsMarker1190" markerWidth="16" markerHeight="12" refX="16" refY="6" viewBox="0 0 16 12" orient="auto" markerUnits="userSpaceOnUse">
+            <path id="SvgjsPath1191" d="M0,2 L14,6 L0,11 L0,2" fill="#323232" stroke="#323232" stroke-width="2"></path>
+        </marker>
+        <marker id="SvgjsMarker1204" markerWidth="16" markerHeight="12" refX="16" refY="6" viewBox="0 0 16 12" orient="auto" markerUnits="userSpaceOnUse">
+            <path id="SvgjsPath1205" d="M0,2 L14,6 L0,11 L0,2" fill="#323232" stroke="#323232" stroke-width="2"></path>
+        </marker>
+        <marker id="SvgjsMarker1212" markerWidth="16" markerHeight="12" refX="16" refY="6" viewBox="0 0 16 12" orient="auto" markerUnits="userSpaceOnUse">
+            <path id="SvgjsPath1213" d="M0,2 L14,6 L0,11 L0,2" fill="#323232" stroke="#323232" stroke-width="2"></path>
+        </marker>
+        <marker id="SvgjsMarker1220" markerWidth="16" markerHeight="12" refX="16" refY="6" viewBox="0 0 16 12" orient="auto" markerUnits="userSpaceOnUse">
+            <path id="SvgjsPath1221" d="M0,2 L14,6 L0,11 L0,2" fill="#323232" stroke="#323232" stroke-width="2"></path>
+        </marker>
+    </defs>
+    <g id="SvgjsG1118" transform="translate(25,267)">
+        <path id="SvgjsPath1119" d="M 0 4Q 0 0 4 0L 72 0Q 76 0 76 4L 76 28Q 76 32 72 32L 4 32Q 0 32 0 28Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffffff"></path>
+        <g id="SvgjsG1120"><text id="SvgjsText1121" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="28" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="6.05" transform="rotate(0)">
+                <tspan id="SvgjsTspan1122" dy="16" x="38">
+                    <tspan id="SvgjsTspan1123" style="text-decoration:;">Data</tspan>
+                </tspan>
+            </text></g>
+    </g>
+    <g id="SvgjsG1124" transform="translate(161,258.5)">
+        <path id="SvgjsPath1125" d="M 0 4Q 0 0 4 0L 93 0Q 97 0 97 4L 97 45Q 97 49 93 49L 4 49Q 0 49 0 45Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffffff"></path>
+        <g id="SvgjsG1126"><text id="SvgjsText1127" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="54" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="14.55" transform="rotate(0)">
+                <tspan id="SvgjsTspan1128" dy="16" x="48.5">
+                    <tspan id="SvgjsTspan1129" style="text-decoration:;">Observer</tspan>
+                </tspan>
+            </text></g>
+    </g>
+    <g id="SvgjsG1130" transform="translate(333,212.25)">
+        <path id="SvgjsPath1131" d="M 0 70.75C 0 -23.583333333333332 148 -23.583333333333332 148 70.75C 148 165.08333333333334 0 165.08333333333334 0 70.75Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffffff"></path>
+        <g id="SvgjsG1132"><text id="SvgjsText1133" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="0" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="60.8" transform="rotate(0)"></text></g>
+    </g>
+    <g id="SvgjsG1134" transform="translate(368,273.5)">
+        <path id="SvgjsPath1135" d="M 0 4Q 0 0 4 0L 72 0Q 76 0 76 4L 76 15Q 76 19 72 19L 4 19Q 0 19 0 15Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffffff"></path>
+        <g id="SvgjsG1136"><text id="SvgjsText1137" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="36" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="-0.44999999999999996" transform="rotate(0)">
+                <tspan id="SvgjsTspan1138" dy="16" x="38">
+                    <tspan id="SvgjsTspan1139" style="text-decoration:;">getter</tspan>
+                </tspan>
+            </text></g>
+    </g>
+    <g id="SvgjsG1140" transform="translate(368,307.75)">
+        <path id="SvgjsPath1141" d="M 0 4Q 0 0 4 0L 72 0Q 76 0 76 4L 76 15Q 76 19 72 19L 4 19Q 0 19 0 15Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffffff"></path>
+        <g id="SvgjsG1142"><text id="SvgjsText1143" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="35" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="-0.44999999999999996" transform="rotate(0)">
+                <tspan id="SvgjsTspan1144" dy="16" x="38">
+                    <tspan id="SvgjsTspan1145" style="text-decoration:;">setter</tspan>
+                </tspan>
+            </text></g>
+    </g>
+    <g id="SvgjsG1146" transform="translate(347,220.75)">
+        <path id="SvgjsPath1147" d="M 0 0L 120 0L 120 40L 0 40Z" stroke="none" fill="none"></path>
+        <g id="SvgjsG1148"><text id="SvgjsText1149" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="28" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="10.05" transform="rotate(0)">
+                <tspan id="SvgjsTspan1150" dy="16" x="60">
+                    <tspan id="SvgjsTspan1151" style="text-decoration:;">Data</tspan>
+                </tspan>
+            </text></g>
+    </g>
+    <g id="SvgjsG1152">
+        <path id="SvgjsPath1153" d="M101 283L131.5 283L131.5 283L161 283" stroke="#323232" stroke-width="2" fill="none" marker-end="url(#SvgjsMarker1154)"></path>
+    </g>
+    <g id="SvgjsG1156">
+        <path id="SvgjsPath1157" d="M258 283L295.5 283L295.5 283L333 283" stroke="#323232" stroke-width="2" fill="none" marker-end="url(#SvgjsMarker1158)"></path>
+    </g>
+    <g id="SvgjsG1160" transform="translate(696,209.5)">
+        <path id="SvgjsPath1161" d="M 0 73.5C 0 -24.5 148 -24.5 148 73.5C 148 171.5 0 171.5 0 73.5Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffffff"></path>
+        <g id="SvgjsG1162"><text id="SvgjsText1163" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="50" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="63.55" transform="rotate(0)">
+                <tspan id="SvgjsTspan1164" dy="16" x="74">
+                    <tspan id="SvgjsTspan1165" style="text-decoration:;">Watcher</tspan>
+                </tspan>
+            </text></g>
+    </g>
+    <g id="SvgjsG1166" transform="translate(536,25)">
+        <path id="SvgjsPath1167" d="M 0 35C 0 -11.666666666666666 70 -11.666666666666666 70 35C 70 81.66666666666667 0 81.66666666666667 0 35Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffffff"></path>
+        <g id="SvgjsG1168"><text id="SvgjsText1169" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="26" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="25.05" transform="rotate(0)">
+                <tspan id="SvgjsTspan1170" dy="16" x="35">
+                    <tspan id="SvgjsTspan1171" style="text-decoration:;">外界</tspan>
+                </tspan>
+            </text></g>
+    </g>
+    <g id="SvgjsG1172">
+        <path id="SvgjsPath1173" d="M770 209.5C 770 120.73401552396325 694.428203105922 67.73646530773607 606 60" stroke-dasharray="3,3" stroke="#323232" stroke-width="2" fill="none" marker-end="url(#SvgjsMarker1174)"></path>
+        <rect id="SvgjsRect1176" width="52" height="16" x="695.1605761647207" y="96.36393031188723" fill="#ffffff"></rect><text id="SvgjsText1177" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="52" fill="#323232" font-weight="400" align="top" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="94.41393031188723" transform="rotate(0)">
+            <tspan id="SvgjsTspan1178" dy="16" x="721.1605761647207">
+                <tspan id="SvgjsTspan1179" style="text-decoration:;">通知外界</tspan>
+            </tspan>
+        </text>
+    </g>
+    <g id="SvgjsG1180">
+        <path id="SvgjsPath1181" d="M571 95C 579.0040106398493 186.48626024533507 770 117.66427710307931 770 209.5" stroke-dasharray="3,3" stroke="#323232" stroke-width="2" fill="none" marker-end="url(#SvgjsMarker1182)"></path>
+        <rect id="SvgjsRect1184" width="39" height="16" x="654.0015039899436" y="144.1189515056554" fill="#ffffff"></rect><text id="SvgjsText1185" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="39" fill="#323232" font-weight="400" align="top" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="142.1689515056554" transform="rotate(0)">
+            <tspan id="SvgjsTspan1186" dy="16" x="673.5015039899436">
+                <tspan id="SvgjsTspan1187" style="text-decoration:;">读数据</tspan>
+            </tspan>
+        </text>
+    </g>
+    <g id="SvgjsG1188">
+        <path id="SvgjsPath1189" d="M696 283L444 283" stroke-dasharray="3,3" stroke="#323232" stroke-width="2" fill="none" marker-end="url(#SvgjsMarker1190)"></path>
+        <rect id="SvgjsRect1192" width="39" height="16" x="550.5" y="275" fill="#ffffff"></rect><text id="SvgjsText1193" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="39" fill="#323232" font-weight="400" align="top" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="273.05" transform="rotate(0)">
+            <tspan id="SvgjsTspan1194" dy="16" x="570">
+                <tspan id="SvgjsTspan1195" style="text-decoration:;">读数据</tspan>
+            </tspan>
+        </text>
+    </g>
+    <g id="SvgjsG1196" transform="translate(536,429)">
+        <path id="SvgjsPath1197" d="M 0 35C 0 -11.666666666666666 70 -11.666666666666666 70 35C 70 81.66666666666667 0 81.66666666666667 0 35Z" stroke="rgba(50,50,50,1)" stroke-width="2" fill-opacity="1" fill="#ffffff"></path>
+        <g id="SvgjsG1198"><text id="SvgjsText1199" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="24" fill="#323232" font-weight="400" align="middle" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="25.05" transform="rotate(0)">
+                <tspan id="SvgjsTspan1200" dy="16" x="35">
+                    <tspan id="SvgjsTspan1201" style="text-decoration:;">Dep</tspan>
+                </tspan>
+            </text></g>
+    </g>
+    <g id="SvgjsG1202">
+        <path id="SvgjsPath1203" d="M444 283C 520.2269192269126 296.4408625159896 577.7461022136216 351.89169885853164 571 429" stroke-dasharray="3,3" stroke="#323232" stroke-width="2" fill="none" marker-end="url(#SvgjsMarker1204)"></path>
+        <rect id="SvgjsRect1206" width="52" height="16" x="512.6148830402003" y="324.1247105154455" fill="#ffffff"></rect><text id="SvgjsText1207" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="52" fill="#323232" font-weight="400" align="top" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="322.1747105154455" transform="rotate(0)">
+            <tspan id="SvgjsTspan1208" dy="16" x="538.6148830402003">
+                <tspan id="SvgjsTspan1209" style="text-decoration:;">收集依赖</tspan>
+            </tspan>
+        </text>
+    </g>
+    <g id="SvgjsG1210">
+        <path id="SvgjsPath1211" d="M407 353.75C 407 421.62761044703916 468.3806843535227 469.9159235544479 536 464" stroke-dasharray="3,3" stroke="#323232" stroke-width="2" fill="none" marker-end="url(#SvgjsMarker1212)"></path>
+        <rect id="SvgjsRect1214" width="52" height="16" x="420.14275663257104" y="428.54757525055766" fill="#ffffff"></rect><text id="SvgjsText1215" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="52" fill="#323232" font-weight="400" align="top" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="426.59757525055767" transform="rotate(0)">
+            <tspan id="SvgjsTspan1216" dy="16" x="446.14275663257104">
+                <tspan id="SvgjsTspan1217" style="text-decoration:;">通知依赖</tspan>
+            </tspan>
+        </text>
+    </g>
+    <g id="SvgjsG1218">
+        <path id="SvgjsPath1219" d="M606 464C 685 464 770 434.93698107398063 770 356.5" stroke-dasharray="3,3" stroke="#323232" stroke-width="2" fill="none" marker-end="url(#SvgjsMarker1220)"></path>
+        <rect id="SvgjsRect1222" width="81" height="16" x="677.125" y="431.6638679027427" fill="#ffffff"></rect><text id="SvgjsText1223" font-family="微软雅黑" text-anchor="middle" font-size="13px" width="81" fill="#323232" font-weight="400" align="top" anchor="middle" family="微软雅黑" size="13px" weight="400" font-style="" opacity="1" y="429.7138679027427" transform="rotate(0)">
+            <tspan id="SvgjsTspan1224" dy="16" x="717.625">
+                <tspan id="SvgjsTspan1225" style="text-decoration:;">通知 Watcher</tspan>
+            </tspan>
+        </text>
+    </g>
+</svg>

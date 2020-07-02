@@ -296,7 +296,7 @@ dep.notify()
 - 打印 Vue 实例观察
 - 整体结构
 
-<img src="整体结构.png" alt="整体结构图" height="200" width="600">
+<img src="./img/整体结构.png" alt="整体结构图" height="200" width="600">
 
 
 
@@ -544,7 +544,7 @@ dep.notify()
 
 - Dep(Dependency)
 
-  <img src="依赖收集.png" width="600" alt="依赖收集">
+  <img src="./img/依赖收集.png" width="600" alt="依赖收集">
 
   功能
 
@@ -585,7 +585,7 @@ dep.notify()
 
 - Watcher
 
-  <img src="观察者.png" width="600" alt="观察者">
+  <img src="./img/观察者.png" width="600" alt="观察者">
   
   功能
   
@@ -679,5 +679,5 @@ dep.notify()
 
 整体流程
 
-<img src="整体流程.png" width="600" alt="整体流程">
+<img src="./img/整体流程.png" width="600" alt="整体流程">
 
