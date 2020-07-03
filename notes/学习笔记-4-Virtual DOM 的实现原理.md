@@ -981,3 +981,53 @@ function patchVnode(oldVnode: VNode, vnode: VNode, insertedVnodeQueue: VNodeQueu
   ```
 
   
+
+---
+
+##### Modules 源码
+
+- patch() -> patchVnode() -> updateChildren()
+- Snabbdom 为了保证核心库的精简，把处理元素的属性、事件、样式等工作，放置到模块中
+- 模块可以按需引入
+- 模块实现的核心是基于 Hooks
+
+###### Hooks
+
+- 预定义的钩子函数的名称
+
+- 源码位置： src/hooks.ts
+
+  ```typescript
+  export interface Hooks {
+    // patch 函数开始执行的时候触发
+    pre?: PreHook;
+    // createElm 函数开始之前的时候触发
+    // 在把 VNode 转换成真实 DOM 之前触发
+    init?: InitHook;
+    // createElm 函数末尾调用
+    // 创建完真实 DOM 后触发
+    create?: CreateHook;
+    // patch 函数末尾执行
+    // 真实 DOM 添加到 DOM 树中触发
+    insert?: InsertHook;
+    // patchVnode 函数开头调用
+    // 开始对比两个 VNode 的差异之前触发
+    prepatch?: PrePatchHook;
+    // patchVnode 函数开头调用
+    // 两个 VNode 对比过程中触发，比 prepatch 稍晚
+    update?: UpdateHook;
+    // patchVnode 的最末尾调用
+    // 两个 VNode 对比结束执行
+    postpatch?: PostPatchHook;
+    // removeVnodes -> invokeDestroyHook 中调用
+    // 在删除元素之前触发，子节点的 destroy 也被触发
+    destroy?: DestroyHook;
+    // removeVnodes 中调用
+    // 元素被删除的时候触发
+    remove?: RemoveHook;
+    // patch 函数的最后调用
+    post?: PostHook;
+  }
+  ```
+
+  
