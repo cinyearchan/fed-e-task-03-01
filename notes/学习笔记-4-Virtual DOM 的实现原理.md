@@ -35,7 +35,7 @@
 ##### 使用 Virtual DOM 原因
 
 - 手动操作 DOM 比较麻烦，还需要考虑浏览器兼容性问题，虽然有 jQuery 等库简化 DOM 操作，但是随着项目的复杂度提升，DOM 操作的复杂度也会提升
-- 为了简化 DOM 的复杂操作浴室出现了各种 MVVM 框架，MVVM 框架解决了视图和状态的同步问题
+- 为了简化 DOM 的复杂操作于是出现了各种 MVVM 框架，MVVM 框架解决了视图和状态的同步问题
 - 为了简化视图的操作可以使用模板引擎，但是模板引擎没有解决跟踪状态变化的问题
 - Virtual DOM 在状态改变时不需要立即更新 DOM，只需要创建一个虚拟树来描述 DOM，Virtual DOM 内部将弄清楚如何有效（diff）的更新 DOM
 - 参考 github 上 [virtual-dom](https://github.com/Matt-Esch/virtual-dom) 的描述
