@@ -58,7 +58,7 @@
 
    更新节点本质上是当一个节点同时存在于 newChildren 和 oldChildren 中时需要执行的操作
 
-   - 新旧两个子节点是同一个节点并且位置相同，只需要进行[更新节点的操作]([https://github.com/cinyearchan/fed-e-task-03-01/blob/master/notes/%E6%8B%93%E5%B1%95-%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAVuejs/04-%E8%99%9A%E6%8B%9FDOM%E6%A0%B8%E5%BF%83.md#%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9](https://github.com/cinyearchan/fed-e-task-03-01/blob/master/notes/拓展-深入浅出Vuejs/04-虚拟DOM核心.md#更新节点))
+   - 新旧两个子节点是同一个节点并且位置相同，只需要进行[更新节点的操作](https://github.com/cinyearchan/fed-e-task-03-01/blob/master/notes/%E6%8B%93%E5%B1%95-%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAVuejs/04-%E8%99%9A%E6%8B%9FDOM%E6%A0%B8%E5%BF%83.md#%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9)
    - 如果 oldChildren 中子节点的位置和本次循环所指向的新子节点的位置不一致时，除了对真实 DOM 节点进行更新操作外，还需对这个真实 DOM 节点进行移动节点的操作
 
 3. ### 移动子节点
