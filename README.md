@@ -18,6 +18,17 @@
    })
    ```
 
+   不是响应式数据
+
+   Vue.js 通过 Object.defineProperty 来将对象的 key 转换成 getter/setter 的形式来追踪变化，但 getter/setter 只能追踪一个数据是否被修改，无法追踪新增属性和删除属性，自然无法侦测到上述数据的变化，也就不会向依赖发送通知
+
+   ```js
+   // 在方法内部，确保 this 指向当前 vue 实例
+   this.$set(this.dog, 'name', 'Trump')
+   ```
+
+   
+
 2. 请简述 Diff 算法的执行过程
 
 
@@ -27,6 +38,8 @@
 # 二、编程题
 
 1. 模拟 VueRouter 的 hash 模式的实现，实现思路和 History 模式类似，把 URL 中的 # 后面的内容作为路由的地址，可以通过 hashchange 事件监听路由地址的变化
+
+   [项目地址](https://github.com/cinyearchan/fed-e-task-03-01/tree/master/code/custom-tiny-vue-router)
 
 2. 在模拟 Vue.js 响应式源码的基础上实现 v-html 指令，以及 v-on 指令
 
