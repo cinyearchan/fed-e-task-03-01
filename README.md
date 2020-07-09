@@ -43,6 +43,8 @@
 
 2. 在模拟 Vue.js 响应式源码的基础上实现 v-html 指令，以及 v-on 指令
 
+   
+
 3. 参考 Snabbdom 提供的电影列表的示例，实现类似的效果 
 
    <iframe src="http://snabbdom.github.io/snabbdom/examples/reorder-animation/" height="600"></iframe>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>custom-vue-test-page</title>
+</head>
+
+<body>
+  <div id="app">
+    插值表达式：{{ msg }}
+    <br>
+    v-text
+    <div v-text="msg"></div>
+    v-model
+    <input type="text" v-model="msg">
+    <br>
+    <textarea name="" id="" cols="30" rows="10" v-model="msg"></textarea>
+  </div>
+  <script src="./lib/Dep.js"></script>
+  <script src="./lib/Watcher.js"></script>
+  <script src="./lib/Compiler.js"></script>
+  <script src="./lib/Observer.js"></script>
+  <script src="./lib/Vue.js"></script>
+  <script>
+    let app = new Vue({
+      el: '#app',
+      data: {
+        msg: 'hello world'
+      }
+    })
+  </script>
+</body>
+
+</html>

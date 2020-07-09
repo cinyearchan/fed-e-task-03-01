@@ -388,7 +388,7 @@ dep.notify()
     }
     walk (data) {
       // 1. 判断 data 是否是对象
-      if (data || typeof data !== 'object') {
+      if (!data || typeof data !== 'object') {
         return
       }
       // 2. 遍历 data 对象的所有属性
