@@ -9,14 +9,18 @@
 
 <body>
   <div id="app">
-    插值表达式：{{ msg }}
-    <br>
-    v-text
+    <p>插值表达式：{{ msg }}</p>
+    <p>v-text</p>
     <div v-text="msg"></div>
-    v-model
+    <p>v-model</p>
     <input type="text" v-model="msg">
     <br>
-    <textarea name="" id="" cols="30" rows="10" v-model="msg"></textarea>
+    <textarea name="" id="" cols="30" rows="10" v-model="rawHtml"></textarea>
+    <p>v-html</p>
+    <p>{{ rawHtml }}</p>
+    <p><span v-html="rawHtml"></span></p>
+    <p @click.prevent="say">你好</p>
+    <p v-on:click.stop="say">hello</p>
   </div>
   <script src="./lib/Dep.js"></script>
   <script src="./lib/Watcher.js"></script>
@@ -27,7 +31,14 @@
     let app = new Vue({
       el: '#app',
       data: {
-        msg: 'hello world'
+        msg: 'hello world',
+        rawHtml: '<span style="color:red">This should be red.</span>'
+      },
+      methods: {
+        say() {
+          console.log('hello')
+          console.log(this)
+        }
       }
     })
   </script>
