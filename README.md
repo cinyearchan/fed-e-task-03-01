@@ -43,7 +43,15 @@
 
 2. 在模拟 Vue.js 响应式源码的基础上实现 v-html 指令，以及 v-on 指令
 
-   
+   [项目地址](https://github.com/cinyearchan/fed-e-task-03-01/blob/master/code/custom-tiny-vue)
+
+   [v-html 指令支持代码](https://github.com/cinyearchan/fed-e-task-03-01/blob/b1e6817e7ab01e0f25354c0e09313197819f1847/code/custom-tiny-vue/lib/Compiler.js#L80-L85)
+
+   [v-on 指令支持代码](https://github.com/cinyearchan/fed-e-task-03-01/blob/b1e6817e7ab01e0f25354c0e09313197819f1847/code/custom-tiny-vue/lib/Compiler.js#L88-L101)
+
+   [新增对注释节点的判断](https://github.com/cinyearchan/fed-e-task-03-01/blob/b1e6817e7ab01e0f25354c0e09313197819f1847/code/custom-tiny-vue/lib/Compiler.js#L13-L21)
+
+   [指令判断中增加对 v-on 以及 v-on简写 @ 的支持](https://github.com/cinyearchan/fed-e-task-03-01/blob/b1e6817e7ab01e0f25354c0e09313197819f1847/code/custom-tiny-vue/lib/Compiler.js#L36-L51)
 
 3. 参考 Snabbdom 提供的电影列表的示例，实现类似的效果 
 
