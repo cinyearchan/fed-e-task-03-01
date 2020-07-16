@@ -176,7 +176,7 @@ function removeNode (el) {
 
   - 旧虚拟节点（oldVnode）也有 children 属性，需要对新旧两个虚拟节点的 children 进行一个更详细的对比并更新。更新 children 可能会移动某个子节点的位置，也有可能会删除或新增某个子节点，**具体更新 children 的过程**[详见](./05-虚拟DOM核心-更新子节点.md)
   - 旧虚拟节点（oldVnode）没有 children 属性，说明旧虚拟节点要么是一个空标签，要么是有文本的文本节点：
-    - 如果是文本节点，先把文本清空让它变成空标签，让后将新虚拟节点（vnode）中的 children 挨个创建成真实的 DOM 元素节点并将其插入到视图中的 DOM 节点下面
+    - 如果是文本节点，先把文本清空让它变成空标签，然后将新虚拟节点（vnode）中的 children 挨个创建成真实的 DOM 元素节点并将其插入到视图中的 DOM 节点下面
 
 - 无 children 的情况
 
