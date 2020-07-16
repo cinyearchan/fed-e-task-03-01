@@ -52,7 +52,7 @@ npm run dev
 
 
 
-> 备注：项目基于 [minivue](https://github.com/woai3c/minivue)，原项目并未考虑 v-for 指令中，数组元素中嵌套的情况:
+> 备注：项目基于 [minivue](https://github.com/woai3c/minivue)，原项目并未考虑 v-for 指令中，数组元素中嵌套的情况，现已解决:
 >
 > ```js
 > [{name: 'xiaoming', age: 18}, {name: 'xiaohong', 17}]
